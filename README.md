@@ -1,0 +1,1 @@
+Study of symplecticity using bilinear and bicubic interpolation on the open and the periodic Toda lattice with 2 degrees of freedom.
